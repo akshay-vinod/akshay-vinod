@@ -5,14 +5,14 @@
 <a href="https://twitter.com/_akshay_vinod">
   <img align="left"  width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://discord.gg/bQYHPV93MDr">
+<a href="https://discord.gg/bQYHPV93MD">
   <img align="left" width="21px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" />
 </a>
 
 <br />
 <br />
 
-- 🔭 I’m currently working on [Discord Bot](https://discord.gg/bQYHPV93MDr):robot:
+- 🔭 I’m currently working on [Discord Bot](https://discord.gg/bQYHPV93MD):robot:
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: akshayvinod468@gmail.com
 
