@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm [Akshay Vinod ](https://akshayvinod.live)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<a href="https://www.linkedin.com/in/akshay-vinod/">
+  <img align="left"  width="21px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/_akshay_vinod">
+  <img align="left"  width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://discord.gg/bQYHPV93MDr">
+  <img align="left" width="21px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" />
+</a>
 
-<!--
-**akshay-vinod/akshay-vinod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Discord Bot](https://discord.gg/bQYHPV93MDr):robot:
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: akshayvinod468@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/figma.png"/></code>
+
+
