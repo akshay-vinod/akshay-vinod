@@ -12,7 +12,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [Discord Bot](https://discord.gg/bQYHPV93MD):robot:
+- 🔭 I’m currently working on [Discord Bot](https://discord.gg/bQYHPV93MD)<img align="center" width="20" src="https://i.ibb.co/Wxsn61G/logo.png" />
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: akshayvinod468@gmail.com
 
