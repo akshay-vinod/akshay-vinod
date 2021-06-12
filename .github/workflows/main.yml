@@ -22,4 +22,5 @@ jobs:
           SHOW_LANGUAGE: "False"
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
-          IGNORED_REPOS: "waka-readme-stats, my-first-repo"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
