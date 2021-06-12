@@ -26,20 +26,6 @@
 <code><img height="20" src="https://img.icons8.com/color/50/000000/python.png"/></code>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 76 Contributions in the Year 2021
- > 
-> 📦 24.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -54,14 +40,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in JavaScript** 
