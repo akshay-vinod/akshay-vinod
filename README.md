@@ -12,7 +12,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [Telegram Bot](https://t.me/vaccinekarobot)<img align="center" width="20" src="https://i.ibb.co/Wxsn61G/logo.png" />
+- 🔭 I’m currently working on [CONSILIO](https://akshay-vinod.github.io/CONSILIO/)<!-- <img align="center" width="20" src="https://i.ibb.co/Wxsn61G/logo.png" /> -->
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: akshayvinod468@gmail.com
 
