@@ -12,8 +12,8 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [VaccineKaro](https://vaccine-karo.netlify.app/)<!-- <img align="center" width="20" src="https://i.ibb.co/Wxsn61G/logo.png" /> -->
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on [Job Portal](https://wizardly-roentgen.netlify.app/)<!-- <img align="center" width="20" src="https://i.ibb.co/Wxsn61G/logo.png" /> -->
+- 🌱 I’m currently learning Angular
 - 📫 Reach me at akshayvinod468@gmail.com
 
 
@@ -24,6 +24,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/figma.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/50/000000/python.png"/></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
