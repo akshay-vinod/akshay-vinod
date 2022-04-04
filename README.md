@@ -43,14 +43,13 @@
 
 ```text
 💬 Programming Languages: 
-TOML                     17 mins             ████████████████████████░   98.88% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 03/04/2022 18:45:52 UTC
+ Last Updated on 04/04/2022 18:48:04 UTC
 <!--END_SECTION:waka-->
