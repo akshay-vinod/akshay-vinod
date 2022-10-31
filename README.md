@@ -12,8 +12,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on [Job Portal](https://wizardly-roentgen.netlify.app/)<!-- <img align="center" width="20" src="https://i.ibb.co/Wxsn61G/logo.png" /> -->
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Django
 - 📫 Reach me at akshayvinod468@gmail.com
 
 
